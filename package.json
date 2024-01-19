@@ -1,0 +1,26 @@
+{
+  "name": "aleatory_telegram",
+  "version": "1.1.0",
+  "description": "Bot de telegram em desenvolvimento, por Aleatory Conteudos.",
+  "main": "ligar.js",
+  "scripts": {
+    "test": "node ligar.js",
+    "start": "node ligar.js"
+  },
+  "keywords": [
+    "telegram_bot"
+  ],
+  "author": "@AleatoryConteudos",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "colors": "^1.4.0",
+    "define-properties": "1.2.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "fs-extra": "^11.1.1",
+    "linkifyjs": "^4.1.0",
+    "node-fetch": "^2.6.7",
+    "node-telegram-bot-api": "github:yagop/node-telegram-bot-api"
+  }
+}
