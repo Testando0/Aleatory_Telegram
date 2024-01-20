@@ -4,7 +4,7 @@ Planejo melhorá-la bastante com as sugestões de vocês, então espero que poss
 
 Meu chat no Telegram: https://t.me/+dONMp4JymvcwZTlh
 
-Meu chat no WhatsApp: https://chat.whatsapp.com/CtOo3xGlaqlLnc6eiRp5u4
+Meu chat no WhatsApp: https://chat.whatsapp.com/DLOKQvmdRQIBGehBVZIADJ
 
 Meu contato: https://wa.me/558198923680
 

@@ -1,11 +1,11 @@
 {
   "name": "aleatory_telegram",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Bot de telegram em desenvolvimento, por Aleatory Conteudos.",
   "main": "ligar.js",
   "scripts": {
     "test": "node ligar.js",
-    "start": "node ligar.js"
+    "start": "sh start.sh"
   },
   "keywords": [
     "telegram_bot"
@@ -21,6 +21,7 @@
     "fs-extra": "^11.1.1",
     "linkifyjs": "^4.1.0",
     "node-fetch": "^2.6.7",
+    "moment-timezone": "^0.5.40",
     "node-telegram-bot-api": "github:yagop/node-telegram-bot-api"
   }
 }

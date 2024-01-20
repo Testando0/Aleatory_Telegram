@@ -20,7 +20,7 @@ Divirta-se com músicas, vídeos e redes sociais! 🎶🎥💬
 
 🛠️ Comandos para Administradores 👨🏻‍💻
 🚫 ${prefixo}ban (marque a mensagem do usuário)
-🔑 ${prefixo}antilink (para ativar/desativar)
+👋 ${prefixo}legendabv A mensagem de Boas vindas
 
 ******************************
 
@@ -32,8 +32,6 @@ Marque um vídeo com o comando, desde que seja curto.
 
 « Faça figurinha com texto colorido,
 use por exemplo: ${prefixo}attp Aleatory
-
-« Ative a conversar informal com o bot, use: ${prefixo}simi
 
 Ações sem prefixo: 
 
@@ -53,6 +51,9 @@ Usado para verificar o tempo de atividade e a velocidade de resposta.
 📲 Comando para obter as especificações de um celular:
 Exemplo: ${prefixo}celular Galaxy A9
 Pode usar qualquer marca de celular.
+
+🎶 Comando para saber a letra de alguma música:
+Exemplo: ${prefixo}letramusica Ela me traiu
 
 ******************************
 `;
